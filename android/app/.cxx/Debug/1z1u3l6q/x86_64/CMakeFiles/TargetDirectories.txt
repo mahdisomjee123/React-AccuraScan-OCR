@@ -1,0 +1,12 @@
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/CMakeFiles/appmodules.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/AccurascanOcr_autolinked_build/CMakeFiles/react_codegen_AccurascanOcr.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/AccurascanOcr_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/AccurascanOcr_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/.cxx/Debug/1z1u3l6q/x86_64/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

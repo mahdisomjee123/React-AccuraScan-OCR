@@ -1,0 +1,12 @@
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/AccurascanOcr_autolinked_build/CMakeFiles/react_codegen_AccurascanOcr.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/AccurascanOcr_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/AccurascanOcr_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/.cxx/Debug/5n5b681t/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

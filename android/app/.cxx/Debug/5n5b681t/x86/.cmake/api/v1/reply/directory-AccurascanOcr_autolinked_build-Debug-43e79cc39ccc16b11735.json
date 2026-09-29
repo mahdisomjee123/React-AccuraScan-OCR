@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "AccurascanOcr_autolinked_build",
+		"source" : "/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /node_modules/react-native-accurascan-ocr/android/build/generated/source/codegen/jni"
+	}
+}

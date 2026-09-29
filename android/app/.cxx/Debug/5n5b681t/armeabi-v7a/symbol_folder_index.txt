@@ -1,0 +1,1 @@
+/Users/accura/Desktop/rdemo/React-AccuraScan-OCR /android/app/build/intermediates/cxx/Debug/5n5b681t/obj/armeabi-v7a

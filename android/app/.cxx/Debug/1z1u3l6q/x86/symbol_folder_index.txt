@@ -1,0 +1,1 @@
+/Users/accura/Desktop/github/hybrid-react-ocr/example/android/app/build/intermediates/cxx/Debug/1z1u3l6q/obj/x86

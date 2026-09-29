@@ -1,0 +1,4 @@
+/Users/accura/Desktop/github/hybrid-react-ocr/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/accura/Desktop/github/hybrid-react-ocr/example/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/accura/Desktop/github/hybrid-react-ocr/example/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt
+/Users/accura/Desktop/github/hybrid-react-ocr/example/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
